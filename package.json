@@ -145,7 +145,7 @@
     "autoprefixer": "^10.4.19",
     "autosize": "^6.0.1",
     "browser-sync": "^2.29.3",
-    "bundlewatch": "^0.3.3",
+    "bundlewatch": "^0.4.1",
     "choices.js": "^10.2.0",
     "countup.js": "^2.8.0",
     "cross-spawn": "^7.0.3",
